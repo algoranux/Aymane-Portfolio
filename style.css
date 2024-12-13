@@ -640,6 +640,13 @@ body {
     .footer-content {
         flex-direction: column;
         text-align: center;
+        align-items: center;
+
+    }
+
+    .site-footer {
+        flex-direction: column;
+        text-align: center;
     }
 
     .footer-links {
